@@ -1,0 +1,5 @@
+1)Microsserviços são uma abordagem de arquitetura para a criação de aplicações.
+2.1) Arquitetura   monolítica   pode   ser compreendida como um empacotamento de todos os componentes do servidor em uma única unidade.	
+2.2) A  arquitetura  de  microserviços  é  um  modelo  que  estrutura  toda  aplicação  em  uma coleção   de   serviços	Idealmente,   um microserviço  deve  ser  responsável  por  uma  parte  específica  de  todo  o  sistema,  tendo  seu próprio banco  de  dados  e  fornecendo  um  recurso  da  aplicação  a  partir  de  uma  API
+3)Os benefícios da arquitetura de microsserviços são: escalabilidade dos serviços, baixo acoplamento e  independência
+4)Os tipos de comunicação entre os microsserviços são: Comunicação por HTTP / Comunicação por Mensagens / Comunicação Orientada a Eventos
