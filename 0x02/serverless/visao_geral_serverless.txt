@@ -1,0 +1,10 @@
+1)O que é Arquitetura Serverless
+Uma Arquitetura Serverless (ou, em tradução livre, Arquitetura sem Servidor) é uma estrutura de aplicativos que hospeda serviços do tipo “Backend-as-a-Service” (BaaS) de terceiros e pode executar ou incluir código personalizado em containers gerenciados a partir de uma plataforma “Function-as-a-Service” (FaaS). Isso significa que a computação sem servidor permite que os desenvolvedores comprem serviços de backend em um modelo flexível, baseado na uberização do “pague conforme o uso”. Em outras palavras, os desenvolvedores só precisam pagar pelos serviços que usam, e gerenciar seu uso e sua disponibilidade para os usuários.
+2)O que é Function as a service (FaaS) ?
+Function as a Service (FaaS) é um serviço de computação em nuvem que busca abstrair a questão de servidor e máquinas onde rodam os seus programas. Em detalhes, ela deriva da filosofia Servless, que delega ao provedor de computação em nuvem (Cloud Provider) provisionar uma plataforma que permita ao cliente: desenvolver, rodar e gerenciar aplicações. Nestes moldes, reduz-se a complexidade de uma pessoa ter que montar e manter a infraestrutura, atual padrão de todo mercado corporativo. Montando uma aplicação com este padrão, implementamos a teoria Servless e criamos uma arquitetura nativa de microsserviços.
+3)Quais são os benefícios de usar arquitetura Serverless ?
+Consumo e cobrança de recursos apenas conforme necessário; Aumento da produtividade dos desenvolvedores e; do tempo de desenvolvimento são alguns exemplos de beneficios.
+4)O que é Cloud Computing (Computação em Nuvem) ? E quais são seu benefícios ?
+A computação em nuvem é o fornecimento de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligência, pela Internet (“a nuvem”). A computação em nuvem elimina o gasto de capital com a compra de hardware e software, configuração e execução de datacenters locais.
+5)Quais são as principais diferenças entre Arquitetura Monolítica, Microsserviços e Serverless ?
+Custo, Velocidade, Escala Global, Produtividade, Desempenho, Confiabilidade e Segurança
